@@ -1,2 +1,2 @@
-# hellow-world
+# hello-world
 the first hello-world repository
